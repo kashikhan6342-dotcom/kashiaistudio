@@ -1,2 +1,6 @@
 Flask
 flask-cors
+python-dotenv
+requests
+huggingface_hub
+pillow  
